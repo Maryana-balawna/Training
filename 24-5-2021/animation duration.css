@@ -1,0 +1,14 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: #C5B08B;
+    animation-name: changeColor;
+    animation-duration: 4s;
+  }
+  
+  @keyframes changeColor {
+    0%   {background-color: #C5B08B;}
+    25%  {background-color:  #DED5BC;}
+    50%  {background-color: #F8F3E6;}
+    100% {background-color: #C6CEBE;}
+  }

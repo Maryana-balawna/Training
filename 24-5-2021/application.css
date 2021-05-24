@@ -1,0 +1,17 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color:#9B531A;
+    position: relative;
+    animation-name: move;
+    animation-duration: 4s;
+    border-radius: 50px;
+  }
+  
+  @keyframes move {
+    0%   {background-color:#9B531A; left:0px; top:0px;}
+    25%  {background-color:#B66E28; left:200px; top:0px;}
+    50%  {background-color:#EBD7BD; left:200px; top:200px;}
+    75%  {background-color:#C98A6D; left:0px; top:200px;}
+    100% {background-color:#9B531A; left:0px; top:0px;}
+  }
