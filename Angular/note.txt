@@ -1,0 +1,9 @@
+30.5.2021
+بدايه كورس Angular js 
+مع معرفه ل Node js &npm 
+ تعلم اوامر بType script 
+مثل : npm i -g typescript => تنزيل تايب سكريبت 
+      node (file name) => يحول الملف من JSل TS
+     tsc (file name) 
+     tsc -w (file name) => watch run
+     tsc --init => بعمل ملف جديد بامتداد json
