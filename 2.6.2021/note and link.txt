@@ -1,0 +1,11 @@
+https://www.youtube.com/watch?v=JNNfJschQ2g&list=PL1ano0qwNuBwA90YwA-5d8g2wbOYHkl5h&index=13
+https://www.youtube.com/watch?v=JbNkQrXKezA&list=PL1ano0qwNuBwA90YwA-5d8g2wbOYHkl5h&index=14
+https://www.youtube.com/watch?v=izba5BzwaTg&list=PL1ano0qwNuBwA90YwA-5d8g2wbOYHkl5h&index=15
+https://www.youtube.com/watch?v=izba5BzwaTg&list=PL1ano0qwNuBwA90YwA-5d8g2wbOYHkl5h&index=16
+الاوامر :
+ng doc => لابحث عن شغله انا بدي اياها 
+ng lint => بطلعلي تحذير لما اعمل شغله غلط 
+ولو كتبت معها --fix بصلح  الاخطاء الي بقدر عليها 
+ng s -o => بفتح تاب جديده 
+ng update => برفع ال packeg الي بالتطبيق 
+ng v => بطلعلي انا باي version
