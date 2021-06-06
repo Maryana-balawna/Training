@@ -1,0 +1,22 @@
+<!--<input type="number" #phone />
+<button (click)="call(phone.value)">call</button>-->
+<!-- save navigation operator -->
+<!--<app-item> </app-item> {{item?.name}}-->
+
+<!--any()-->
+<!--<app-item> </app-item> {{ $any(item).name }}-->
+<!--<input type="text" #ref (keyup)="(0)" />{{ ref.value }}-->
+<div class="father">
+  <p>father conmponent</p>
+  <input type="text" [(ngModel)]="username" />
+
+  <label for="usernameFromChild"> {{ usernameFromChild }} </label>
+  <label for="passwordFromChild"> {{ passwordFromChild }} </label>
+  <app-item></app-item>
+
+  <app-item-details
+    [itemTitleFromFather]="username"
+    (emailEmitter)="usernameFromChild = $event"
+    (passwordEmitter)="passwordFromChild = $event"
+  ></app-item-details>
+</div>

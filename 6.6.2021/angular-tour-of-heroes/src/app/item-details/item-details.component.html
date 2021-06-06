@@ -1,0 +1,15 @@
+<div class="child-1">
+  <p>Hello {{ itemTitleFromFather }}</p>
+  <form>
+    <label for="username"> Username</label>
+    <input type="email" name="email" id="email" [(ngModel)]="email" />
+    <label for="password">Password</label>
+    <input
+      type="password"
+      name="password"
+      id="password"
+      [(ngModel)]="password"
+    />
+    <button (click)="sendToFather()">Send To Father</button>
+  </form>
+</div>
