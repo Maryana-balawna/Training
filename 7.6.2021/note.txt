@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=DW_L9mp7nXc&list=PL1ano0qwNuBwA90YwA-5d8g2wbOYHkl5h&index=30 :Input Setter , Content Projection & ViewEncapsulation 
+https://www.youtube.com/watch?v=Tw4SgEOfy_w&list=PL1ano0qwNuBwA90YwA-5d8g2wbOYHkl5h&index=31 :ViewChild
+https://www.youtube.com/watch?v=AiOzOYBdPp0&list=PL1ano0qwNuBwA90YwA-5d8g2wbOYHkl5h&index=32 :@ViewChildren 
+https://www.youtube.com/watch?v=TRoDeXnO15Y&list=PL1ano0qwNuBwA90YwA-5d8g2wbOYHkl5h&index=33 :@ContentChild & @ContentChildren
+https://www.youtube.com/watch?v=Qccg0WnGhH0&list=PL1ano0qwNuBwA90YwA-5d8g2wbOYHkl5h&index=34 :Change Detection Strategy 
+في الملفات موجود تصميم لسا بشتغل عليه
